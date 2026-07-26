@@ -1,5 +1,5 @@
 {
-  "originHash" : "424f09f1066ec289a7e1af6f56f22e5db56349fced180b1399bb66252fe84207",
+  "originHash" : "fd74f99203008f245b4b28b98e29a99fafbc5d1af1df6c3de87868bc13a17f07",
   "pins" : [
     {
       "identity" : "cryptoswift",
@@ -8,6 +8,42 @@
       "state" : {
         "revision" : "f2a627b84c1ff96f21ac2fcb623ab36142dd5512",
         "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "swift-bases",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/randymcmillan/swift-bases.git",
+      "state" : {
+        "branch" : "gnostr",
+        "revision" : "4bb2c3114da1ae994fd781eec7404dd4397fd7a3"
+      }
+    },
+    {
+      "identity" : "swift-multibase",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/randymcmillan/swift-multibase.git",
+      "state" : {
+        "branch" : "gnostr",
+        "revision" : "a7b50abbce26640a565640ff928376965b600e3d"
+      }
+    },
+    {
+      "identity" : "swift-multicodec",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/randymcmillan/swift-multicodec.git",
+      "state" : {
+        "branch" : "gnostr",
+        "revision" : "13eceb5d42820c868a5d678be190be78cb8455ae"
+      }
+    },
+    {
+      "identity" : "swift-varint",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/randymcmillan/swift-varint.git",
+      "state" : {
+        "branch" : "gnostr",
+        "revision" : "a6aab59626b796289bc9c21f5c12676c49864620"
       }
     }
   ],
